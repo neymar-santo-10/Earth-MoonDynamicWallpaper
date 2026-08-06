@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Live Earth and Moon",
+  "Thumbnail": null,
+  "Preview": null,
+  "Desc": "Live Earth and Moon with real-time lighting, clouds, and automatic camera switching.",
+  "Author": "Jurgen Schmidt (customized)",
+  "License": null,
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index_FOSS.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": ["Earth", "Moon", "Space"],
+  "Version": 1
+}
